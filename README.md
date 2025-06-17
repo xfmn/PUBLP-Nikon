@@ -1,6 +1,6 @@
 <img src="https://github.com/xfmn/tl494cn_35khz/blob/main/amp206-2.gif">
-<img src="">
-<img src="">
+<img src="https://github.com/xfmn/PUBLP-Nikon/blob/main/PUBPL_gerber%20(1).png">
+<img src="https://github.com/xfmn/PUBLP-Nikon/blob/main/PUBPL_gerber%20(2).png">
 *
 C1	1	4,7uF	Bipolar 63V
 C2	2	470pF	50V
