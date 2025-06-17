@@ -1,6 +1,6 @@
-* Partlist from file: "320volt-MOS-250.lay6"
-*
-* Name	No	Value	Comment
+<img src="https://github.com/xfmn/tl494cn_35khz/blob/main/amp206-2.gif">
+<img src="">
+<img src="">
 *
 C1	1	4,7uF	Bipolar 63V
 C2	2	470pF	50V
